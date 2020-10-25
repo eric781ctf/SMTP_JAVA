@@ -1,4 +1,5 @@
 # SMTP_JAVA
+
 ##Most of code are provide from teacher
 
 Using Java to create a Application to send mail by SMTP protocol
